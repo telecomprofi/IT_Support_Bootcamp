@@ -28,15 +28,14 @@ Topics in addition to Google IT Support Fundamentals
 ------
 
 
-Session 1: Network ISO/OSI Layers
+| Date | Session Topic |
+| :---: |  :---: | 
+| August 3rd | Session 1: Network ISO/OSI Layers |
+| August 8th | Session 2: IPv4 Addressing and TCP/IP |
+| August 10th| Session 3: Sockets, DNS, and HTTP/S|
 
-Date: August 3rd
-Session 2: IPv4 Addressing and TCP/IP
 
-Date: August 8th
-Session 3: Sockets, DNS, and HTTP/S
-
-Date: August 10th
+Date:
 Session 4: FTP, SSH, and RDP
 
 Date: August 15th
